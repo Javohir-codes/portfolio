@@ -57,5 +57,115 @@ h1 {
     padding-bottom: 50px;
     display: flex;
     justify-content: space-between;
-
+}
+.section-what-do {
+    margin: 0px 200px;
+}
+h2 {
+    font-size: 32px;
+    color: white !important;
+}
+.section-what-do-main-div {
+    display: flex;
+    justify-content: space-between;
+}
+.card-text {
+    color: white !important;
+}
+.card-title {
+    color: white !important;
+}
+.card {
+    background-color: inherit !important;
+    border: none !important;
+}
+.card-img-top {
+    width: 100px !important;
+}
+.section-upgrade {
+    margin: 100px 150px;
+}
+.section-upgrade-h3 {
+    font-size: 32px;
+    color: white;
+}
+.section-upgrade-container {
+    background-color: white;
+    color: darkslategray;
+    border-radius: 30px;
+    padding: 50px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.section-upgrade-div-h3 {
+    font-size: 25px;
+    margin-left: 50px;
+}
+.section-upgrade-div-text {
+    font-size: 20px;
+    margin-left: 50px;
+    width: 500px;
+}
+.section-upgrade-div-button {
+    padding: 10px 60px !important;
+    margin-left: 50px;
+}
+.section-upgrade-img {
+    width: 400px;
+    height: 200px;
+}
+.section-upgrade-text {
+    width: 400px;
+    font-size: 20px;
+    color: gray;
+    text-align: center;
+    margin: auto;
+}
+.section-upgrade-h3-bottom {
+    font-size: 20px;
+    color: white;
+}
+.section-upgrade-div-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100px;
+    margin: auto;
+    padding-top: 30px;
+}
+.section-info {
+    margin: 0px 200px;
+}
+.section-info-h3 {
+    font-size: 25px;
+    color: white;
+}
+.section-info-main-div {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.section-info-div-text {
+    font-size: 20px;
+    width: 250px;
+    color: white;
+    text-align: center;
+    margin: auto;
+}
+.section-info-div-text-info {
+    font-size: 17px;
+    width: 200px;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 120px;
+}
+.section-info-div {
+    width: 300px;
+    height: 300px;
+    border: 3px dashed white;
+    border-radius: 30px;
 }
